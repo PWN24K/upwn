@@ -1,0 +1,3 @@
+#!/bin/sh
+echo cleaning device please wait 
+rm -r /var/mobile/IPSW
